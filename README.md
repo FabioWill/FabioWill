@@ -4,6 +4,15 @@
 
 Mais de 15 anos construindo software. Hoje meu foco é IA que roda operação de verdade: agentes em produção, antifraude, compliance e dados em tempo real, em setores regulados como iGaming e banking.
 
+### Construindo agora
+
+<img src="assets/puco.png" alt="Ícone do Puco" width="72" align="left" />
+
+**Puco** · IDE nativa para macOS, feita para trabalhar com agentes de código em muitos projetos ao mesmo tempo: workspaces, worktrees, contas e consumo dos agentes, pull requests e memória numa janela leve, sem servidor e sem telemetria.<br/>
+Swift 6 · SwiftUI · AppKit · pré-alpha
+
+<br clear="left"/>
+
 ### Experiência
 
 - **Founder · [Absoluto.ai](https://absoluto.ai)** (desde 2026). Concebi, arquitetei e construí uma plataforma SaaS multi-tenant de times de agentes de IA para e-commerce e iGaming, em produção e cobrando por uso.
